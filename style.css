@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+.navbar-brand{
+    background-color: rgb(247, 7, 119);
+    
+}
+.bg-primary{
+    padding-right: 20px;
+}
+.thirdimg{
+    
+    width: 1500px;
+    height: 400px;
+}
